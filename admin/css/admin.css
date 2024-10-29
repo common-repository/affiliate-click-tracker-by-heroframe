@@ -1,0 +1,174 @@
+#toplevel_page_heroframe-config img {
+    max-width: 21px;
+    padding-top: 6px!important;
+    opacity: 1 !important;
+}
+
+
+        .half {
+            width: 48%;
+            float: left;
+        }
+
+  .heroframeadmin .tab-content {
+            margin-top: 0px;
+            border: 1px solid #ccc;
+            background: white;
+            padding: 10px;
+        }
+        .heroframeadmin .tab-title {
+            margin-top: 5px;
+            margin-bottom: 12px;
+        }
+        .heroframeadmin ol {
+            font-size: 14px;
+            margin-left: 30px;
+            line-height: 1.7;
+        }
+
+        .heroframe-required {
+            color: red
+        }
+
+        #preview-container {
+            padding-top: 10px;
+            padding-left: 1%;
+            padding-right: 1%;
+            width: 98%;
+            height: 450px;
+            border: 1px solid #ccc;
+            background: white;
+            margin-bottom: 10px;
+        }
+
+        #example-heroframe-preview {
+            float: left;
+            width: 70%;
+        }
+
+        #example-heroframe-preview h3 {
+            margin-top: 0px;
+            margin-bottom: 10px;
+        }
+
+        #heroframe-customizer {
+            float: right;
+            width: 27%;
+            padding-left: 15px;
+            border-left: 1px solid #ccc;
+            background: white;
+            margin-left: 10px;
+            height: 430px;
+        }
+
+        #heroframe-customizer h3 {
+            margin-top: 0px;
+            margin-bottom: 10px;
+            width: 75%;
+            float: left;
+        }
+
+        #heroframe-customizer p.submit {
+            text-align: left;
+        }
+
+        #heroframe-customizer p.submit input {
+            width: 95%;
+        }
+
+        #heroframe-customizer .form-group {
+            margin-bottom: 10px;
+        }
+
+        #heroframe-customizer .form-group .heroinputgroup {
+            margin-top: 15px;
+        }
+
+
+        .heroinputgroup input {
+            float: left;
+            width: 95%;
+        }
+
+        .heroframsearch {
+            width: 100%;
+        }
+
+        .heroframsearch label {
+            font-weight: 700;
+        }
+
+         .heroframsearch input {
+             margin-top: 5px;
+            width: 100%;
+        }
+
+         #heroframe-tracked-pages {
+                margin-top: 10px;
+             padding-top: 10px;
+                width: 100%;
+         }
+
+            .trackedpagestable {
+                text-align: center;
+                width: 100%;
+            }
+
+
+            .herofilter {
+                text-align: right;
+                width: 40%;
+                float: right;
+            }
+            #heroframe-filter {
+                padding-top: 5px;
+                padding-left: 10px;
+            }
+
+            .trackedpagestable th {
+                text-align: center;
+            }
+
+            .heroexplain {
+                width: 95%;
+                font-size: 14px;
+            }
+
+            .heroframeinactive {
+                color: red;
+            }
+
+            .heroframeactive {
+                color: green;
+            }
+
+            #herotrackersearch {
+                margin: 0 auto;
+                width: 98%;
+                padding-top: 10px;
+                padding-bottom: 20px;
+            }
+
+            #herotrackersearch input {
+                width: 80%;
+            }
+
+            #herotrackersearch .button {
+                width: 15%;
+            }
+
+            #herotrackersearch label {
+                font-size: 14px;
+            }
+
+           .autocompleteresults {
+                width: 50%;
+                background: white;
+                position: absolute;
+            }
+
+            .heroframe-autocomplete-result {
+                color: #2271b1;
+                font-size: 13px;
+                margin: 5px;
+            }
